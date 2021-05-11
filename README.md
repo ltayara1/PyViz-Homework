@@ -43,8 +43,4 @@ In this final section, I read in neighborhood location data and built an interac
 
 After working out all of the code and analysis, I used the Panel library to build an interactive dashboard for all of the visualizations. 
 
-Create a new `dashboard.ipynb` for your dashboard code. Copy over the code for each visualization and place this into separate functions (1 function per visualization). This will make it easier to build and modify the layout later. Each function should return the plot figure in a format that Panel can use to plot the visualization.
-
-Sample Dashboard:
-
-  ![dashboard-demo.gif](Images/dashboard-demo.gif)
+I created a new `dashboard.ipynb` for my dashboard code. I copied over the code for each visualization and placed it into separate functions (1 function per visualization). This made it easier to build and modify the layout later. Each function returned the plot figure in a format that Panel used to plot the visualization.
